@@ -5,7 +5,7 @@
 ### I build technology that helps people.
 **Solving problems in education, health, and society — with code.**
 
-<img src="cambodia.png" width="600" />
+<img src="cambodia.png" width="450" />
 
 *Teaching computer skills to students in Cambodia, 2025*
 
