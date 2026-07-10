@@ -18,7 +18,7 @@
 **[H.AI](https://github.com/H-AI-LG/frontend)** — GenAI-powered digital history textbook. Students talk directly with historical figures through RAG-grounded AI agents, explore interactive war maps, and debate with AI-summarized results.
 `AWS Bedrock` `RAG` `Tool Calling` `React` — 🏆 **Grand Prize, LG CNS AM Inspire Camp** · Field-tested with elementary students
 
-**National Museum of Korea AI Docent** — Pivoting H.AI's engine into a personalized museum guide: visitors get custom tour routes and converse with historical figures about the artifacts in front of them.
+**National Museum of Korea AI Docent(https://github.com/H-AI-LG/knm_monsters)** — Pivoting H.AI's engine into a personalized museum guide: visitors get custom tour routes and converse with historical figures about the artifacts in front of them.
 `RAG` `e-Museum Open API` — 🚧 In progress
 
 **Bible Reading Companion** — An app that helps people read scripture with context and consistency.
