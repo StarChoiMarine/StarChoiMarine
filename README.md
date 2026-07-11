@@ -55,7 +55,7 @@
 
 - 🇰🇭 Computer education volunteer, Cambodia (2025) — and heading to Saipan next
 - 🇺🇸 CES 2026 & Silicon Valley study tour
-- ⚓ ROK Marine Corps veteran (2020–2022) — the "Marine" in StarChoiMarine
+- 🇰🇷 ROK Marine Corps veteran (2020–2022) — the "Marine" in StarChoiMarine
 
 ## 📫 Contact
 
